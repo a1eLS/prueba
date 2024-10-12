@@ -1,0 +1,9 @@
+
+    ------------------- Recibo -------------------
+    Fecha y Hora: 2024-09-11 17:30:41
+    Tipo de Operación: Consulta de Saldo
+    Monto: 0 Bs
+    Saldo Final: 400.0 Bs
+    ----------------------------------------------
+    Gracias por utilizar nuestros servicios.
+    
