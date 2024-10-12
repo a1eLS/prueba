@@ -28,7 +28,7 @@ def imprimir_recibo(tipo_operacion, pin, monto=0):
     fecha_hora = datetime.datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     
     recibo = f"""
-    ------------------- Recibo -------------------
+    ------------------- Recibo (se hizo modificaciones aqui) -------------------
     Fecha y Hora: {fecha_hora}
     Tipo de Operación: {tipo_operacion}
     Monto: {monto} Bs
